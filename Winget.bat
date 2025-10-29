@@ -1,3 +1,4 @@
+@echo off
 :: INSTALL BELOW
 winget install --id Google.Chrome -h --accept-source-agreements --accept-package-agreements
 winget install --id Google.ChromeRemoteDesktopHost -h --accept-source-agreements --accept-package-agreements
